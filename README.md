@@ -1,2 +1,2 @@
 # nx-workspace
-Nx workspace create for React Js and React native
+Nx workspace create for React Js 
